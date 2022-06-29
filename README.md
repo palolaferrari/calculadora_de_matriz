@@ -25,6 +25,6 @@ Ao final de cada função temos um exemplo já definido e ao final de todos os c
 
 ---
 
-Trabalho desenvolvido por 
+Trabalho desenvolvido por Danielle Chagas, Gustavo Beneti, João Guilherme Caramês e Paola Ferrari
 
 
